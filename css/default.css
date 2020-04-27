@@ -1,0 +1,16 @@
+header {
+    width: 100%;
+    height: 40px;
+    position: fixed;
+    color: azure;
+    background-color: black;
+}
+
+main {
+    height: 2000px;
+    background-color:#999;
+}
+main .top_bar {
+    margin: 40px;
+    border-bottom: solid 1px #fff;
+}
